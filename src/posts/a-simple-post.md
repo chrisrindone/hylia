@@ -1,7 +1,8 @@
 ---
-title: A simple post
-date: 2020-06-08
+title: A simple post II
+date: 2021-02-15
 tags:
+- Test
 - demo-content
 - simple-post
 - blog
