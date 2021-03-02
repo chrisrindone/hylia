@@ -1,15 +1,14 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: It's a blog!
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+metaDesc: 'Chris Rindone's personal blog'
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
-CMS](https://forestry.io/) pre-configured, so that you can one-click install a
-progressive, accessible blog in minutes. It also gives you a well organised
-starting point to extend yourself.
+Welcome to my blogging adventure. I will TRY to post regularly, but life happens sometimes, so we shall see. 
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia)
+I'll be posting about anything and everything that comes to mind, but there's probably gonna be a lot of nerdy-tech-dev stuff. You've been warned.
+
+Thanks for stopping by!
